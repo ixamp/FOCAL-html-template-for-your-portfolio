@@ -39,7 +39,7 @@
     "gulp-webp-html2": "git://github.com/TigroWeb/gulp-webp-html2.git",
     "gulp-webp-in-html": "^1.0.1",
     "gulp-webpcss": "^1.1.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "restart": "^2.0.0",
     "ttf2woff": "^2.0.2",
     "ttf2woff2": "^3.0.0"
